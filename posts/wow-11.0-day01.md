@@ -1,5 +1,5 @@
 ---
-title: 'WOW 11.0 Adventure - Day 01'
+title: 'WOW 11.0 Adventure - Day 02'
 date: 2024-08-27
 author: Neonity
 gravatar: 85d93842e57c3a21028821fb5e232a08
@@ -8,9 +8,15 @@ twitter: '@Neonity2022'
 
 <img src="\wow-adventure\salatas-11.0-wallpaper-small.webp" alt="vitepress logo"  style="width:512px; margin:2em auto;">
 
+## Day 01
 WOW 国服体验第一天
 
 用恶魔术士，一天升到了77级，基本无压力，怪物强度很低。职业玩家应该是7-8小时轻松满级。
+
+## Day 02
+WOW 11.0 国服体验第二天
+
+第二天到了80级满级，主线任务做完，开始做支线任务（优先做土灵任务）
 
 Today we are happy to announce the (long overdue) 1.0 release of [VitePress](https://vitepress.dev/)!
 
